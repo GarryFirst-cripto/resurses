@@ -1,4 +1,4 @@
-![Мои ресурсы](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPjem1lCXh6RLhcAG8huB3nMjudTU4jynkmlPmCPOSjxWgdB8g&usqp=CAU)
+![Мои ресурсы](https://github.com/GarryFirst-cripto/resurses/blob/master/pictures/programmer.jpg)
 ## My Resurses
 ### It's my repositori for resurses
 
